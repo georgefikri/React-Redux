@@ -12,7 +12,7 @@
 /build
 
 /.svg
-/serviceWorker.js*
+/.serviceWorker.js*
 
 # misc
 .DS_Store
